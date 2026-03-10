@@ -39,16 +39,21 @@
 
 ---
 
+
+
 ## 📊 SYSTEM METRICS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shenllyz&show_icons=true&theme=vibrant&hide_border=false" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenllyz&layout=compact&theme=vibrant&hide_border=false" height="170px"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shenllyz&show_icons=true&theme=tokyonight&hide_border=false&border_color=000&bg_color=FF6B6B&title_color=000&icon_color=000&text_color=000" height="170px" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shenllyz&layout=compact&theme=tokyonight&hide_border=false&border_color=000&bg_color=4ECDC4&title_color=000&text_color=000" height="170px" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shenllyz&theme=react-dark&bg_color=0D1117&color=FFD93D&line=FFD93D&point=FFFFFF&area=true&hide_border=false" width="100%"/>
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shenllyz&theme=react-dark&bg_color=121212&color=FFD93D&line=FFD93D&point=FFFFFF&area=true&hide_border=false" width="100%" />
+</div>
 
 ---
 
