@@ -111,7 +111,7 @@ Tech stack:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shenllyz&show_icons=true&theme=tokyonight&count_private=true"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shenllyz&show_icons=true&theme=tokyonight&count_private=true"/>
 
 </p>
 
@@ -121,7 +121,7 @@ Tech stack:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shenllyz&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shenllyz&layout=compact&theme=tokyonight"/>
 
 </p>
 
