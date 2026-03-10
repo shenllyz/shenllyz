@@ -38,7 +38,7 @@
 ## 📊 SYSTEM METRICS
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shenllyz&show_icons=true&theme=tokyonight&hide_border=false&border_color=000&bg_color=FF6B6B&title_color=000&icon_color=000&text_color=000" height="170px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shenllyz&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&border_color=000&bg_color=FF6B6B&title_color=000&icon_color=000&text_color=000" height="170px" />
   
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shenllyz&layout=compact&theme=tokyonight&hide_border=false&border_color=000&bg_color=4ECDC4&title_color=000&text_color=000" height="170px" />
 </div>
